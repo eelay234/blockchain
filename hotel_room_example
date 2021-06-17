@@ -1,0 +1,5 @@
+The code of "HotelRoom.sol" follows the tutorial of 
+"Master Solidity for Blockchain: Step-by-Step Guide" by Gregory McCubbin
+at https://www.dappuniversity.com/articles/solidity
+
+The code creates a smart contract in Solidity to book a hotel room and make  Ethereum payment to hotel owner.
