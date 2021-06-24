@@ -14,11 +14,11 @@ at https://www.dappuniversity.com/articles/solidity
     In "fraud_detection_using_kmeans.py":
     a. Preprocessing data, 
        As the author did, three datasets were concatenated to make a dataframe.
-       Nans were replaced by zero and non-numeric values were replaced by numeric values.
-    b. Blockahin were defined with 256 encryption and POW.
-    c. Instanciate the node and blockchain.
-    d. Implement the methods that respond to request including implementing Kmeans clustering on the newly formed chain. Measure its performance by silhouette_score.
-    
+       Nans were replaced by zero and non-numeric values were replaced by numeric values.<br />
+    b. Blockahin were defined with 256 encryption and POW.<br />
+    c. Instanciate the node and blockchain.<br />/>
+    d. Implement the methods that respond to request including implementing Kmeans clustering on the newly formed chain. Measure its performance by silhouette_score.<br />
+    ```
     Activate the blockchain on a terminal,
     $python3 fraud_detection_using_kmeans.py
 
@@ -32,11 +32,12 @@ at https://www.dappuniversity.com/articles/solidity
     
     The accuracy of kmeans:
     score=0.86273384
-    
-    to do list:
+    ```
+    To do list:
+    ```
     a. Understand more about blockchain, its opportunities and challenges.
-    a. Undestand more about the data and the relationship between dataframes and between fields.
-    b. Research other dataframes and do feature engineering. 
-    c. Use different ML algorithms and compare their performances.
-    d. research about combining machine learning and blockchain.
-
+    b. Undestand more about the data and the relationship between dataframes and between fields.
+    c. Research other dataframes and do feature engineering. 
+    d. Use different ML algorithms and compare their performances.
+    e. research about combining machine learning and blockchain.
+    ```
