@@ -40,5 +40,6 @@ at https://www.dappuniversity.com/articles/solidity
     b. Undestand more about the data and the relationship between dataframes and between fields.
     c. Research other dataframes and do feature engineering. 
     d. Use different ML algorithms and compare their performances.
-    e. research about combining machine learning and blockchain.
+    e. apply the code to detect fraud.
+    f. research about combining machine learning and blockchain and applying blockchain to education or other fields.
     ````
