@@ -43,4 +43,4 @@ at https://www.dappuniversity.com/articles/solidity
     e. apply the code to detect fraud.
     f. researchWr about combining machine learning and blockchain and applying blockchain to education or other fields.
     ````
-4. Writeup1 is my realization about blockchain, its opportunities, challenges, and applications during the first two weeks of learning.
+4. Writeup1 is my realization about blockchain, its pros and cons, opportunities, and challenges during the first two weeks of learning.
