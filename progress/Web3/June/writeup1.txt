@@ -1,0 +1,44 @@
+This writeup was just what I have learned till the time of writing. It is my realization 
+about blockchain. It could be updated in the future.
+
+What is clockchain?
+    Blockchain is 
+        a chain of blocks that works as a decentralized system with the features of:
+            without central control 
+            consensus
+            stability
+            immutability
+            trustless
+      
+    Blockchain is like linked list. 
+        Linked list stores data while blockchain stores information or transactions.
+    Blockchain is like machine learning. 
+        They both automate some tasks and provide conveniences.
+        Machine learning automates the tasks after learning from prior experiences.
+        Blockchain automates the tasks by decentralizing the architecture and eliminating 
+           the central controlling authority.
+
+Pros:
+    convenience because of no intermediary, or bank.
+    less cost of service fee
+    transparancy
+    traceability of data
+
+Cons:
+    computation power consumption
+    high cost of implementation and integration 
+    can not go back
+
+Opportunities:
+    finance
+    insurance companies
+    education
+    healthcare
+    sypply chain
+
+Challenges:
+    scalability
+    sometimes inefficient
+    risks(security, privacy leaking)
+
+    
