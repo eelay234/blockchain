@@ -41,5 +41,6 @@ at https://www.dappuniversity.com/articles/solidity
     c. Research other dataframes and do feature engineering. 
     d. Use different ML algorithms and compare their performances.
     e. apply the code to detect fraud.
-    f. research about combining machine learning and blockchain and applying blockchain to education or other fields.
+    f. researchWr about combining machine learning and blockchain and applying blockchain to education or other fields.
     ````
+4. Writeup1 is my realization about blockchain, its opportunities, challenges, and applications the first two weeks.
