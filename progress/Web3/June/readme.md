@@ -44,3 +44,4 @@ at https://www.dappuniversity.com/articles/solidity
     f. researchWr about combining machine learning and blockchain and applying blockchain to education or other fields.
     ````
 4. Writeup1 is my realization about blockchain, its pros and cons, opportunities, and challenges during the first two weeks of learning.
+5. fraud_detection_using_kmeans_modified jupyter notebook is the modified version of original one created by Vinita Silaparasetty. This modified version uses kmeans to cluster the order dataset of three columns (account_id, to_account, and amount) into k clusters and detect outliers. More research will be conducted about the optimal k, other clustering methods, and integration of outliers detection into fraud-detection.
